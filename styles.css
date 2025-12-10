@@ -1,0 +1,21 @@
+*{margin: 0;padding: 0;}
+body{background-image: url("bumaga.jpg");}
+
+h1,h2{color: black;text-align: center;}
+a{color: blue;font-size:23pt;margin-left: 1%;}
+.cont{min-width: 1310px;margin: 0px auto;padding: 0px 15px;}
+
+
+#lop{background: black;}
+
+.verx{width: 75%;margin-left: 12%;background:black;border:3px solid grey;opacity: 75%;position: fixed;}
+
+#glboss{width: 76%;margin-left: 12%;margin-top: 10%;float: left;border: 4px solid grey;border-radius: 2%;background-image: url("bumaga.jpg");}
+
+#glboss>p{color:black;text-align: center;font-size: 23pt;}
+
+#glavn{width: 80%;margin-left: 10%;margin-top: 5%;margin-right: 10%;float: left;border: 4px solid grey; }
+
+#glavn>p{text-align: center;font-size: 23pt;}
+
+#glavn>img{width: 70%;margin-left: 15%;border: 4px solid grey;}
